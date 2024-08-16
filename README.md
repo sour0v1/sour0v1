@@ -12,7 +12,7 @@ I'm a front-end web developer skilled in HTML, CSS, Tailwind CSS, JavaScript, an
 ## :computer: Skills
 <br/>
 <p>
-  <img width="100px" src="https://i.ibb.co/Q9VGYVX/html-logo.png"/>
+  <img width="100px" height="100px" src="https://i.ibb.co/Q9VGYVX/html-logo.png"/>
   <img width="100px" src="https://i.ibb.co/YBphLHV/css-logo.png"/>
   <img width="100px" src="https://i.ibb.co/pypzwHb/tailwind-logo.png"/>
   <img width="100px" src="https://i.ibb.co/CHfrfDp/js-logo.png"/>
